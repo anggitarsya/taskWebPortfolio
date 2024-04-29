@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Skill+ Website Edukasi",
+      "imageSrc": "projects/skill.jpg",
+      "description": "Project ini merupakan webstie untuk melakukan pelatihan-pelatihan yang berhubungan dengan dunia IT. Dilakukan secara berkelompok",
+      "skills": ["HTML", "CSS", "JavaScript", "PHP"],
+      "source": "https://github.com/anggitarsya/skillplus-website"
+    },
+    {
+      "title": "Image Classification",
+      "imageSrc": "projects/project.png",
+      "description": "Project ini melakukan image classification untuk mendeteksi telur puyuh, telur ayam, dan telur kalkun",
+      "skills": ["Python"],
+      "source": "https://github.com/anggitarsya/python-image-classification"
+    },
+    {
+      "title": "Prototype E-Commerce Opak Nusantara",
+      "imageSrc": "projects/opak.jpg",
+      "description": "Prototype website penjualan Opak-Opak khas Lombok Utara",
+      "skills": ["Figma"],
+      "source": "https://www.figma.com/proto/ZFCVuBO4qRSeiT4RTzgaU6/Opak-Nusantara---Crunch-in-Every-Bite?node-id=2200-14518&starting-point-node-id=2200%3A14518"
+    }
+  ]
+  
